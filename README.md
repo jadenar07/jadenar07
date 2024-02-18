@@ -4,7 +4,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Python</b>
-  - [MediaGen](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [MediaGen]([https://github.com/joshmadakor1/Algorithms-Practice](https://github.com/jadenar07/MediaGen/tree/main))
   - [SmartSpecs](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>JavaScript</b>
   - [NoteMe](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
