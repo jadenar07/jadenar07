@@ -1,16 +1,15 @@
-### Hi there 👋
+<h1>Hi, I'm Jaden Ritchie! <br/><a href="https://github.com/jadenar07">Programmer</a> and <a href="www.linkedin.com/in/jadenritchie">Aspiring Software Engineer</a><br/><br/>
 
-<!--
-**jadenar07/jadenar07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>I am a sophomore at New York University's Tandon School of Engineering. I’m currently enrolled in the Computer Science program and eager to specialize further, looking to delve into web and game development. My aspirations firmly lie in software engineering, however, I hope to be able to branch out to other CS fields as I gain more experience and tenure in the field. Beyond the academic sphere, I enjoy gaming and movies. </p>
 
-Here are some ideas to get you started:
+<h2>👨‍💻 Software Development Projects:</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- <b>Python</b>
+  - [MediaGen](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [SmartSpecs](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>JavaScript</b>
+  - [NoteMe](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [WeatherToday](https://github.com/joshmadakor1/Algorithms-Practice)
+
+
+
