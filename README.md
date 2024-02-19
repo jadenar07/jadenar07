@@ -5,7 +5,7 @@
 
 - <b>Python</b>
   - [MediaGen](https://github.com/jadenar07/MediaGen/tree/main)
-  - [SmartSpecs](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [SmartSpecs](https://github.com/jadenar07/SmartSpecs)
 - <b>JavaScript</b>
   - [NoteMe](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
   - [WeatherToday](https://github.com/joshmadakor1/Algorithms-Practice)
