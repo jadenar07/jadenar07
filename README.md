@@ -7,8 +7,8 @@
   - [MediaGen](https://github.com/jadenar07/MediaGen/tree/main)
   - [SmartSpecs](https://github.com/jadenar07/SmartSpecs)
 - <b>JavaScript</b>
-  - [NoteMe](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
-  - [WeatherToday](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Anime Quiz](https://github.com/jadenar07/Anime-Quiz)
+  - [WeatherToday](https://github.com/jadenar07/Weather-App)
  
 <h2>📃 Certifications:</h2>
 
