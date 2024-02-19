@@ -1,4 +1,4 @@
-<h1>Hi, I'm Jaden Ritchie! <br/><a href="https://github.com/jadenar07">Programmer</a> and <a href="www.linkedin.com/in/jadenritchie">Aspiring Software Engineer</a><br/>
+<h1>Hi, I'm Jaden Ritchie! <br/> Programmer and Aspiring Software Engineer <br/>
 
 
 <h2>👨‍💻 Software Development Projects:</h2>
