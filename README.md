@@ -9,6 +9,7 @@
 - <b>JavaScript</b>
   - [Anime Quiz](https://github.com/jadenar07/Anime-Quiz)
   - [WeatherToday](https://github.com/jadenar07/Weather-App)
+  - [RecipePlaque](https://github.com/jadenar07/RecipePlaque/tree/main)
  
 <h2>📃 Certifications:</h2>
 
