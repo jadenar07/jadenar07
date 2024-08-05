@@ -3,16 +3,13 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>Python</b>
+Most Recent Projects:
+-   [BetSmart](https://github.com/princetsiq/BetSmart)
   - [MediaGen](https://github.com/jadenar07/MediaGen/tree/main)
-  - [SmartSpecs](https://github.com/jadenar07/SmartSpecs)
-- <b>JavaScript</b>
-  - [Anime Quiz](https://github.com/jadenar07/Anime-Quiz)
-  - [WeatherToday](https://github.com/jadenar07/Weather-App)
-  - [RecipePlaque](https://github.com/jadenar07/RecipePlaque/tree/main)
+
  
 <h2>📃 Certifications:</h2>
 
 
   - [Microsoft C# Foundational Course](https://www.freecodecamp.org/certification/Jaden_R03/foundational-c-sharp-with-microsoft)
-
+  - [IBM Accelerate Software Development](https://www.credly.com/badges/0bf3b211-ccee-454d-b9b6-8173809bc3a7/linked_in_profile)
