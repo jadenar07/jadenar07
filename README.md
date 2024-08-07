@@ -5,6 +5,7 @@
 
 Most Recent Projects:
 -   [BetSmart](https://github.com/princetsiq/BetSmart)
+-   [Exam Scheduler](https://github.com/princetsiq/NYU-Exam-Scheduler)
   - [MediaGen](https://github.com/jadenar07/MediaGen/tree/main)
 
  
