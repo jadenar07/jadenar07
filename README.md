@@ -6,7 +6,7 @@
 Most Recent Projects:
 -   [BetSmart](https://github.com/princetsiq/BetSmart)
 -   [Exam Scheduler](https://github.com/princetsiq/NYU-Exam-Scheduler)
--   [Flash Study]([https://github.com/princetsiq/NYU-Exam-Scheduler](https://github.com/mikiyas17legesse/flashcard_saas))
+-   [Flash Study](https://github.com/mikiyas17legesse/flashcard_saas)
   - [MediaGen](https://github.com/jadenar07/MediaGen/tree/main)
 
  
